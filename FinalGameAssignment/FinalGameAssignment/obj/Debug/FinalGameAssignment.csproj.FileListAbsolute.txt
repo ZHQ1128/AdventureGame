@@ -1,0 +1,14 @@
+C:\Users\zhang\source\repos\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.csprojResolveAssemblyReference.cache
+C:\Users\zhang\source\repos\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zhang\source\repos\FinalGameAssignment\FinalGameAssignment\bin\Debug\FinalGameAssignment.exe.config
+C:\Users\zhang\source\repos\FinalGameAssignment\FinalGameAssignment\bin\Debug\FinalGameAssignment.exe
+C:\Users\zhang\source\repos\FinalGameAssignment\FinalGameAssignment\bin\Debug\FinalGameAssignment.pdb
+C:\Users\zhang\source\repos\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.exe
+C:\Users\zhang\source\repos\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.pdb
+C:\Users\zhang\source\repos\C#\FinalGameAssignment\FinalGameAssignment\bin\Debug\FinalGameAssignment.exe.config
+C:\Users\zhang\source\repos\C#\FinalGameAssignment\FinalGameAssignment\bin\Debug\FinalGameAssignment.exe
+C:\Users\zhang\source\repos\C#\FinalGameAssignment\FinalGameAssignment\bin\Debug\FinalGameAssignment.pdb
+C:\Users\zhang\source\repos\C#\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.csprojResolveAssemblyReference.cache
+C:\Users\zhang\source\repos\C#\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.csproj.CoreCompileInputs.cache
+C:\Users\zhang\source\repos\C#\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.exe
+C:\Users\zhang\source\repos\C#\FinalGameAssignment\FinalGameAssignment\obj\Debug\FinalGameAssignment.pdb
